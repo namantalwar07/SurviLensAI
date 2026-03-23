@@ -95,3 +95,6 @@ coverage/
 # Uncomment one:
 # package-lock.json
 # yarn.lock
+android/gradle.properties
+android/app/src/main/res/values/mapbox.xml
+src/screens/OfflineMapScreen.tsx
