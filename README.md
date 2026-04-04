@@ -335,7 +335,6 @@ Enhanced with:
 ---
 
 # 👨‍💻 Author
-BUG SLAYERS
 **Naman Talwar**
 GitHub: [https://github.com/namantalwar07](https://github.com/namantalwar07)
 
